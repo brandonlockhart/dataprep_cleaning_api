@@ -4,11 +4,14 @@
 
 ### End of Summer 2020
 
-Yi and Brandon implement two APIs.
+Yi and Brandon:
+* implement one API each
+* edit the API explanation ipynb files (particularly the first APIs for the new members) if needed to clarify the requirements or add ideas for implementation (e.g., if we learn any lessons from our own implementation)
+* add real world messy datasets or links to messy datasets to the datasets folder
 
 ### Fall 2020
 
-Create a solid foundation for DataPrep's Data Cleaning component by implementing a few APIs with high quality and well structured code.
+Get DataPrep's Data Cleaning component off to a strong start by implementing a few APIs with high quality, thoroughly tested, and well structured code.
 
 #### Planned APIs to implment
 
@@ -29,11 +32,15 @@ The first four are the team's starting task and the rest are in order of importa
 ### Spring 2020
 
 * Implement more APIs
-* Implement domain specific cleaning functions (e.g., finance, biology)
+* Consider domain specific cleaning scenarios (e.g., finance, biology)
 * Marketing: blog post and videos
 
 
 ## Tentative starting tasks
+
+Preliminary: Should we ask each team member to make a small change (e.g., fix a bug, add a small additional feature) to one of the implemented APIs to become familiar with the code?
+
+### Tentative first functions:
 
 * Alice: `clean_text()` (3 weeks)
 * Ryan: `clean_email()` (3 weeks)
