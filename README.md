@@ -12,7 +12,7 @@
 
 Get DataPrep's Data Cleaning component off to a strong start by implementing a few APIs with high quality, thoroughly tested, and well structured code.
 
-#### Planned APIs to implment
+#### Planned APIs to implement:
 
 1. `clean_text()`
 2. `clean_email()`
