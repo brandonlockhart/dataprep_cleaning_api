@@ -14,8 +14,6 @@ Get DataPrep's Data Cleaning component off to a strong start by implementing a f
 
 #### Planned APIs to implment
 
-The first four are the team's starting task and the rest are in order of importance
-
 1. `clean_text()`
 2. `clean_email()`
 3. `clean_url()`
